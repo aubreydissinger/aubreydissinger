@@ -1,23 +1,44 @@
 [
   {
-    "objectID": "projects.html#project-2",
-    "href": "projects.html#project-2",
-    "title": "Projects",
-    "section": "Project 2",
-    "text": "Project 2"
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Aubrey Dissinger, Simona Rimoldi, Genciana Terova, Karolina Kwasek PLOS ONE· 26 Jul 2024· doi:10.1371/journal.pone.0307967"
   },
   {
-    "objectID": "projects.html#project-3",
-    "href": "projects.html#project-3",
-    "title": "Projects",
-    "section": "Project 3",
-    "text": "Project 3"
+    "objectID": "projects.html#chronic-social-isolation-affects-feeding-behavior-of-juvenile-zebrafish-danio-rerio",
+    "href": "projects.html#chronic-social-isolation-affects-feeding-behavior-of-juvenile-zebrafish-danio-rerio",
+    "title": "Publications",
+    "section": "",
+    "text": "Aubrey Dissinger, Simona Rimoldi, Genciana Terova, Karolina Kwasek PLOS ONE· 26 Jul 2024· doi:10.1371/journal.pone.0307967"
+  },
+  {
+    "objectID": "projects.html#effects-of-oregano-origanum-vulgare-essential-oil-supplementation-on-growth-performance-of-zebrafish-danio-rerio-fed-a-high-inclusion-soybean-meal-diet",
+    "href": "projects.html#effects-of-oregano-origanum-vulgare-essential-oil-supplementation-on-growth-performance-of-zebrafish-danio-rerio-fed-a-high-inclusion-soybean-meal-diet",
+    "title": "Publications",
+    "section": "Effects of Oregano (Origanum vulgare) Essential Oil Supplementation on Growth Performance of Zebrafish (Danio rerio) Fed a High-Inclusion Soybean Meal Diet",
+    "text": "Effects of Oregano (Origanum vulgare) Essential Oil Supplementation on Growth Performance of Zebrafish (Danio rerio) Fed a High-Inclusion Soybean Meal Diet\nAubrey Dissinger, Jacob Bowman, Giovanni S. Molinari, Karolina Kwasek Zebrafish· 3 Jul 2024· doi:10.1089/zeb.2024.0139"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "About Me",
     "section": "",
-    "text": "Thanks for checking out my web site!"
+    "text": "I am currenty a Ph.D student in Marine Biology at the University of New Hampshire. I earned a B.S. in Biology from Kutzown University and a M.S. in Zoology from Southern Illinois University. My master’s thesis focused on the relationship between social environment and nutrition in fish. Specifically, my research investigated the effects of isolation on feeding behavior.\nMy current research focuses on the effects of soybean meal based diets on the intestinal health of fish and methods of mitigating diet-induced inflammation. My research aims to improve utilization of plant-based diets to promote more sustainable and cost-effective methods of raising fish.\n\n\nB.S. Biology, Kutztown University of Pennsylvania, Kutztown, PA M.S. Zoology, Southern Illinois University - Carbondale, Carbondale, IL\n\n\n\nPrior to returning to graduate school, I worked in animal husbandry for the University of Pittsburgh. Specifically, I was the quarantine technician for the Aquatics Facility.\nThanks for checking out my web site!"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "About Me",
+    "section": "",
+    "text": "B.S. Biology, Kutztown University of Pennsylvania, Kutztown, PA M.S. Zoology, Southern Illinois University - Carbondale, Carbondale, IL"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "About Me",
+    "section": "",
+    "text": "Prior to returning to graduate school, I worked in animal husbandry for the University of Pittsburgh. Specifically, I was the quarantine technician for the Aquatics Facility."
   }
 ]

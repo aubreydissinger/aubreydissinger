@@ -3,16 +3,25 @@ title: "About Me"
 about:
   id: me
   template: broadside
-  image: img/profile.png
+  image: img/aubrey-toms.jpg
 ---
 
 :::{#me}
 
-## Goals
+
+I am currenty a Ph.D student in Marine Biology at the University of New Hampshire. I earned a B.S. in Biology from Kutzown University and a M.S. in Zoology from Southern Illinois University. My master’s thesis focused on the relationship between social environment and nutrition in fish. Specifically, my research investigated the effects of isolation on feeding behavior.
+
+My current research focuses on the effects of soybean meal based diets on the intestinal health of fish and methods of mitigating diet-induced inflammation. My research aims to improve utilization of plant-based diets to promote more sustainable and cost-effective methods of raising fish.
+
 
 ## Education
 
+B.S. Biology, Kutztown University of Pennsylvania, Kutztown, PA 
+M.S. Zoology, Southern Illinois University - Carbondale, Carbondale, IL
+
 ## Experience
+
+Prior to returning to graduate school, I worked in animal husbandry for the University of Pittsburgh. Specifically, I was the quarantine technician for the Aquatics Facility.
 
 :::
 

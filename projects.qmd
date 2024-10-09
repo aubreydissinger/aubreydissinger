@@ -1,9 +1,13 @@
 ---
-title: "Projects"
+title: "Publications"
 ---
 
-## Project 1
+## Chronic social isolation affects feeding behavior of juvenile zebrafish (*Danio rerio*) 
+Aubrey Dissinger, Simona Rimoldi, Genciana Terova, Karolina Kwasek
+PLOS ONE· 26 Jul 2024· doi:10.1371/journal.pone.0307967
 
-## Project 2
+## Effects of Oregano (*Origanum vulgare*) Essential Oil Supplementation on Growth Performance of Zebrafish (*Danio rerio*) Fed a High-Inclusion Soybean Meal Diet
+Aubrey Dissinger, Jacob Bowman, Giovanni S. Molinari, Karolina Kwasek
+Zebrafish· 3 Jul 2024· doi:10.1089/zeb.2024.0139
 
-## Project 3
+
